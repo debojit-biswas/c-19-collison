@@ -1,1 +1,2 @@
-# c-19-collison
+# collisionAlgorithm
+Algorithm to detect collision between two objects
